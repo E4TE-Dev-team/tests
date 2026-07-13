@@ -1,0 +1,66 @@
+[35m[DEBUG] This is a debug message.[0m
+[0m[INFO] This is an info message.[0m
+[33m[WARNING] This is a warning message.[0m
+[31m[ERROR] This is an error message.[0m
+[31;44m[FATAL] This is a fatal message.[0m
+[31m[ERROR] GEORGE[0m
+[35m[DEBUG] This is a debug message.[0m
+[0m[INFO] This is an info message.[0m
+[33m[WARNING] This is a warning message.[0m
+[31m[ERROR] This is an error message.[0m
+[31;44m[FATAL] This is a fatal message.[0m
+[31m[ERROR] GEORGE[0m
+[35m[DEBUG] This is a debug message.[0m
+[0m[INFO] This is an info message.[0m
+[33m[WARNING] This is a warning message.[0m
+[31m[ERROR] This is an error message.[0m
+[31;44m[FATAL] This is a fatal message.[0m
+[31m[ERROR] GEORGE[0m
+[35m[DEBUG] WILLIAM[0m
+[35m[DEBUG] This is a debug message.[0m
+[0m[INFO] This is an info message.[0m
+[33m[WARNING] This is a warning message.[0m
+[31m[ERROR] This is an error message.[0m
+[31;44m[FATAL] This is a fatal message.[0m
+[31m[ERROR] GEORGE[0m
+[35m[DEBUG] WILLIAM[0m
+[35m[DEBUG] This is a debug message.[0m
+[0m[INFO] This is an info message.[0m
+[33m[WARNING] This is a warning message.[0m
+[31m[ERROR] This is an error message.[0m
+[31;44m[FATAL] This is a fatal message.[0m
+[31m[ERROR] GEORGE[0m
+[35m[DEBUG] WILLIAM[0m
+[0m[INFO] A^2 + B^2 = C^2[0m
+[33m[WARNING] The quick brown fox jumps over the lazy dog.[0m
+[31m[ERROR] Lorem ipsum dolor sit amet, consectetur adipiscing elit.[0m
+[35m[1781604631][DEBUG] This is a debug message.[0m
+[0m[1781604631][INFO] This is an info message.[0m
+[33m[1781604631][WARNING] This is a warning message.[0m
+[31m[1781604631][ERROR] This is an error message.[0m
+[31;44m[1781604631][FATAL] This is a fatal message.[0m
+[31m[1781604631][ERROR] GEORGE[0m
+[35m[1781604631][DEBUG] WILLIAM[0m
+[0m[1781604631][INFO] A^2 + B^2 = C^2[0m
+[33m[1781604631][WARNING] The quick brown fox jumps over the lazy dog.[0m
+[31m[1781604631][ERROR] Lorem ipsum dolor sit amet, consectetur adipiscing elit.[0m
+[35m[1781605523][DEBUG] This is a debug message.[0m
+[0m[1781605523][INFO] This is an info message.[0m
+[33m[1781605523][WARNING] This is a warning message.[0m
+[31m[1781605523][ERROR] This is an error message.[0m
+[31;44m[1781605523][FATAL] This is a fatal message.[0m
+[31m[1781605523][ERROR] GEORGE[0m
+[35m[1781605523][DEBUG] WILLIAM[0m
+[0m[1781605523][INFO] A^2 + B^2 = C^2[0m
+[33m[1781605523][WARNING] The quick brown fox jumps over the lazy dog.[0m
+[31m[1781605523][ERROR] Lorem ipsum dolor sit amet, consectetur adipiscing elit.[0m
+[35m[1781691628][DEBUG] This is a debug message.[0m
+[0m[1781691628][INFO] This is an info message.[0m
+[33m[1781691628][WARNING] This is a warning message.[0m
+[31m[1781691628][ERROR] This is an error message.[0m
+[31;44m[1781691628][FATAL] This is a fatal message.[0m
+[31m[1781691628][ERROR] GEORGE[0m
+[35m[1781691628][DEBUG] WILLIAM[0m
+[0m[1781691628][INFO] A^2 + B^2 = C^2[0m
+[33m[1781691628][WARNING] The quick brown fox jumps over the lazy dog.[0m
+[31m[1781691628][ERROR] Lorem ipsum dolor sit amet, consectetur adipiscing elit.[0m

@@ -1,0 +1,1 @@
+clang++ logger-test.cpp cpp-logger/logger.hpp  -v
