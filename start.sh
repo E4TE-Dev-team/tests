@@ -9,4 +9,4 @@ docker run -d \
   -p 3000:3000 \
   -e NODE_ENV=production \
   -e PORT=3000 \
-  ghcr.io/xorynix/dogeub:latest
+  doge
