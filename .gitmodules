@@ -1,1 +1,4 @@
 
+[submodule "Dogeub"]
+	path = dogeub
+	url = https://github.com/xorynix/dogeub.git
